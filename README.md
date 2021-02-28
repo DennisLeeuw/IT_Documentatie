@@ -1,2 +1,2 @@
-# IT_Documentatie
+# IT Documentatie
 Open Source documenten voor het onderwijs
